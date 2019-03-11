@@ -1,14 +1,9 @@
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.nio.file.Files;
-import java.nio.file.OpenOption;
-import java.nio.file.Path;
-import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
 
 public class Main {
@@ -66,8 +61,15 @@ public class Main {
 		
 		System.out.println(rawRecords);
 		
+		//TODO: from here to write code that manipulate data read from files
+		
+		//step 2 TODO: generate a map where key = userid, value = a list of record that correspond to this userid, and sorted by site primary and by time secondly
+		
+		//step 3 TODO: from each list in the map, manipulate the data in the list to produce a list of Analized data
+		
+		//step 4 TODO: rewrite the toString method of analyized data class, to produce .csv format string, then print the result list using PrintWriter 
 		try(PrintWriter writer = new PrintWriter(new FileWriter(outputFile), true)){
-			writer.println(rawRecords);
+			//writer.println(rawRecords);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

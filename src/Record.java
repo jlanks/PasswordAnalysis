@@ -5,11 +5,11 @@ import java.util.Date;
 import java.util.logging.Logger;
 
 public class Record {
-	public static final int IMAGE_TYPE = 1, TEXT_TYPE = 0;
+	public static final String IMAGE_TYPE = "Iamge21", TEXT_TYPE = "Text21";
 	
-	private int type;		//either image type or text type password record
+	private String type;		//either image type or text type password record
 	
-	private Date time;
+	private Date time;			//TODO: not sure can Data do arithmetic calculation, it would help a lot if it can
 	private String userid;
 	private String site;
 	private String scheme;
@@ -28,7 +28,7 @@ public class Record {
 	 * @param event
 	 * @param data
 	 */
-	public Record(int type, String time, String userid, String site, String scheme, String mode, String event, String data) {
+	public Record(String type, String time, String userid, String site, String scheme, String mode, String event, String data) {
 		this.type = type;
 		try {
 			this.time = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss").parse(time);
@@ -66,7 +66,7 @@ public class Record {
 	/**
 	 * @return the type
 	 */
-	public int getType() {
+	public String getType() {
 		return type;
 	}
 
@@ -74,7 +74,7 @@ public class Record {
 	/**
 	 * @param type the type to set
 	 */
-	public void setType(int type) {
+	public void setType(String type) {
 		this.type = type;
 	}
 
