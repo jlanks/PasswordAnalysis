@@ -1,18 +1,28 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.nio.file.Files;
 import java.nio.file.OpenOption;
 import java.nio.file.Path;
 import java.nio.file.StandardOpenOption;
+import java.util.ArrayList;
 
 public class Main {
 	File image21, text21;
 	File outputFile;
 	
+	ArrayList<Record> rawRecords, outputRecords;
+	
 	public Main() {
 		image21 = new File(new File("./files"), "imagept21.csv");
 		text21 = new File(new File("./files"), "text21.csv");
 		outputFile = new File(new File("./files"), "merged.csv");
+		rawRecords = new ArrayList<>();
+		outputRecords = new ArrayList<>();
 		try {
 			outputFile.createNewFile();
 		} catch (IOException e) {
@@ -21,31 +31,53 @@ public class Main {
 	}
 	
 	public void doJob() {
-		//step 1: read two files and get two big giant strings
-		String image21Strings = "", text21String = "";
-		try {
-			image21Strings = Files.readString(Path.of(image21.getAbsolutePath()));
-			text21String = Files.readString(Path.of(text21.getAbsolutePath()));
+		//step 1: read two files and generate arraylist of record
+		System.out.println(image21.getAbsolutePath());
+		try (BufferedReader imageReader = new BufferedReader(new FileReader(image21));
+				BufferedReader textReader = new BufferedReader(new FileReader(text21))){
+			
+			for(String line = imageReader.readLine(); line != null && !line.equals("");line = imageReader.readLine()) {
+				String[] imageField = line.split(",");
+				rawRecords.add(new Record(Record.IMAGE_TYPE, 
+						imageField[0], 
+						imageField[1], 
+						imageField[2], 
+						imageField[3], 
+						imageField[4],
+						imageField[5], 
+						imageField[6]));
+			}
+			
+			for(String line = textReader.readLine(); line != null && !line.equals("");line = textReader.readLine()) {
+				String[] textField = line.split(",");
+				rawRecords.add(new Record(Record.IMAGE_TYPE, 
+						textField[0], 
+						textField[1], 
+						textField[2], 
+						textField[3], 
+						textField[4],
+						textField[5], 
+						textField[6]));
+			}
+			
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
 		
-		//step 2: break them down into 
-		System.out.println(image21Strings);
-		System.out.println(text21String);
+		System.out.println(rawRecords);
 		
-		try {
-			Files.writeString(Path.of(outputFile.getAbsolutePath()), image21Strings);
-			Files.writeString(Path.of(outputFile.getAbsolutePath()), text21String, StandardOpenOption.APPEND);
+		try(PrintWriter writer = new PrintWriter(new FileWriter(outputFile), true)){
+			writer.println(rawRecords);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		
+
 		
 	}
 
 	public static void main(String[] args) {
-		var main = new Main();
-		main.doJob();
+		new Main().doJob();
 	}
 
 }
