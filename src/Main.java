@@ -5,6 +5,9 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.List;
 
 public class Main {
 	File image21, text21;
@@ -59,12 +62,29 @@ public class Main {
 			e.printStackTrace();
 		}
 		
-		System.out.println(rawRecords);
+		//System.out.println(rawRecords);
 		
 		//TODO: from here to write code that manipulate data read from files
 		
-		//step 2 TODO: generate a map where key = userid, value = a list of record that correspond to this userid, and sorted by site primary and by time secondly
-		
+		//step 2: generate a map where key = userid, value = a list of record that correspond to this userid, and sorted by site primary and by time secondly
+		HashMap<String, ArrayList<Record>> recordsByUserid = new HashMap<>();
+		for (Record record : rawRecords) {
+			if (recordsByUserid.get(record.getUserid()) == null) {
+				recordsByUserid.put(record.getUserid(), new ArrayList<>(Arrays.asList(record)));
+			} else {
+				recordsByUserid.get(record.getUserid()).add(record);
+			}
+		}
+		for (List<Record> records: recordsByUserid.values()) {
+			records.sort((r1, r2) -> {
+				int d = r1.getSite().compareTo(r2.getSite());
+				if (d != 0) return d;
+				else {
+					return r1.getTime().compareTo(r2.getTime());
+				}
+			});
+			System.out.println(records);
+		}
 		//step 3 TODO: from each list in the map, manipulate the data in the list to produce a list of Analized data
 		
 		//step 4 TODO: rewrite the toString method of analyized data class, to produce .csv format string, then print the result list using PrintWriter 
