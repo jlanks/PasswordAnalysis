@@ -3,7 +3,11 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.logging.Logger;
-
+/**
+ * the record that read from the .csv file, each line is read into one instance of this class
+ * @author Charles Chen
+ *
+ */
 public class Record {
 	public static final String IMAGE_TYPE = "Iamge21", TEXT_TYPE = "Text21";
 	

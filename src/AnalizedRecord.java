@@ -1,5 +1,9 @@
 import java.util.Date;
-
+/**
+ * the record that will be produced and used for thr group project
+ * @author Charles Chen
+ *
+ */
 public class AnalizedRecord {
 	private String userid;
 	private String type;
