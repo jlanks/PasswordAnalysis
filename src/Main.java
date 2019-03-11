@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class Main {
 	File image21, text21;
@@ -67,15 +68,11 @@ public class Main {
 		//TODO: from here to write code that manipulate data read from files
 		
 		//step 2: generate a map where key = userid, value = a list of record that correspond to this userid, and sorted by site primary and by time secondly
-		HashMap<String, ArrayList<Record>> recordsByUserid = new HashMap<>();
-		for (Record record : rawRecords) {
-			if (recordsByUserid.get(record.getUserid()) == null) {
-				recordsByUserid.put(record.getUserid(), new ArrayList<>(Arrays.asList(record)));
-			} else {
-				recordsByUserid.get(record.getUserid()).add(record);
-			}
-		}
-		for (List<Record> records: recordsByUserid.values()) {
+		HashMap<String, ArrayList<Record>> recordsGroupedByUserid = rawRecords.stream().collect(
+				Collectors.groupingBy(Record::getUserid, HashMap<String, ArrayList<Record>>::new, 
+						Collectors.toCollection(ArrayList<Record>::new)));
+		
+		for (List<Record> records: recordsGroupedByUserid.values()) {
 			records.sort((r1, r2) -> {
 				int d = r1.getSite().compareTo(r2.getSite());
 				if (d != 0) return d;
