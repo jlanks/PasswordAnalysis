@@ -45,7 +45,7 @@ public class Main {
 			
 			for(String line = textReader.readLine(); line != null && !line.equals("");line = textReader.readLine()) {
 				String[] textField = line.split(",");
-				rawRecords.add(new Record(Record.IMAGE_TYPE, 
+				rawRecords.add(new Record(Record.TEXT_TYPE, 
 						textField[0], 
 						textField[1], 
 						textField[2], 
