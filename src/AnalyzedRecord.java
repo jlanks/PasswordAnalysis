@@ -4,7 +4,7 @@ import java.util.Date;
  * @author Charles Chen
  *
  */
-public class AnalizedRecord {
+public class AnalyzedRecord {
 	private String userid;
 	private String type;
 	private int successLoginCount;
@@ -20,7 +20,7 @@ public class AnalizedRecord {
 	 * @param successLoginTime
 	 * @param failLoginTime
 	 */
-	public AnalizedRecord(String userid, String type, int successLoginCount, int failLoginCount, Date successLoginTime, Date failLoginTime) {
+	public AnalyzedRecord(String userid, String type, int successLoginCount, int failLoginCount, Date successLoginTime, Date failLoginTime) {
 		this.userid = userid;
 		this.type = type;
 		this.successLoginCount = successLoginCount;
@@ -35,7 +35,7 @@ public class AnalizedRecord {
 	@Override
 	public String toString() {
 		StringBuilder builder = new StringBuilder();
-		builder.append("AnalizedRecord [userid=").append(userid).append(", type=").append(type).append(", successLoginCount=").append(successLoginCount).append(", failLoginCount=").append(failLoginCount).append(", successLoginTime=").append(successLoginTime).append(", failLoginTime=").append(failLoginTime).append("]");
+		builder.append("AnalyzedRecord [userid=").append(userid).append(", type=").append(type).append(", successLoginCount=").append(successLoginCount).append(", failLoginCount=").append(failLoginCount).append(", successLoginTime=").append(successLoginTime).append(", failLoginTime=").append(failLoginTime).append("]");
 		return builder.toString();
 	}
 

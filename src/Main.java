@@ -65,8 +65,6 @@ public class Main {
 		
 		//System.out.println(rawRecords);
 		
-		//TODO: from here to write code that manipulate data read from files
-		
 		//step 2: generate a map where key = userid, value = a list of record that correspond to this userid, and sorted by site primary and by time secondly
 		HashMap<String, ArrayList<Record>> recordsGroupedByUserid = rawRecords.stream().collect(
 				Collectors.groupingBy(Record::getUserid, HashMap<String, ArrayList<Record>>::new, 
