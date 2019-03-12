@@ -55,7 +55,7 @@ public class Record {
 	@Override
 	public String toString() {
 		StringBuilder builder = new StringBuilder();
-		builder.append("\nRecord [type=").append(type)
+		builder.append("Record [type=").append(type)
 		.append(", time=").append(time)
 		.append(", userid=").append(userid)
 		.append(", site=").append(site)

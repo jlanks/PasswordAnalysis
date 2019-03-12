@@ -8,7 +8,6 @@ import java.util.function.BiConsumer;
 import java.util.stream.Collectors;
 
 public class Pile_Of_Records {
-	private static String SUCCESS = "success", FAILURE = "failure";
 	
 	private ArrayList<Record> rawRecords, outputRecords;
 	
@@ -56,56 +55,35 @@ public class Pile_Of_Records {
 			AnalyzedRecord textAnalyzedRecord = new AnalyzedRecord(userid, Record.TEXT_TYPE);
 			AnalyzedRecord imageAnalyzedRecord = new AnalyzedRecord(userid, Record.IMAGE_TYPE);
 			//temp variables for building above two record
-			boolean foundLoginAction = false;
-			boolean isGoodLogin = true;
-			Date endTime = null;
-			String type = "";
-			for (int i = records.size() - 1; i >= 0; i--) {//for each record of this user, in Inverse order
+			boolean findingNewStartLogin = true;	//check does the program is finding start record or success/fail record
+			Date startTime = null;					//save the start time
+			String type = "";						//the type of record, either image21 or text21
+			for (int i = 1; i < records.size(); i++) {//for each record of this user, in order sorted before
 				Record thisRecord = records.get(i);
 				System.out.println(thisRecord);
-				if ((!foundLoginAction) || (foundLoginAction && 
-						(thisRecord.getData().equals(SUCCESS) || thisRecord.getData().equals(FAILURE)))) { //start finding a login success of login fail
-					endTime = thisRecord.getTime();
-					if (thisRecord.getData().equals(SUCCESS)) {
-						type = thisRecord.getType();
-						isGoodLogin = true;
-						if (type.equals(Record.TEXT_TYPE)) {
-							textAnalyzedRecord.increaseSuccessCount();
-						} else { //image type
-							imageAnalyzedRecord.increaseSuccessCount();
-						}
-					} else if (thisRecord.getData().equals(FAILURE)) {
-						type = thisRecord.getType();
-						isGoodLogin = false;
-						if (type.equals(Record.TEXT_TYPE)) {
-							textAnalyzedRecord.increaseFailCount();
-						} else { //image type
-							imageAnalyzedRecord.increaseFailCount();
-						}
-					} else {
-						//we don't want other information, skip
-						continue;
-					}//endif .equal function for getting record we interested
-					foundLoginAction = !foundLoginAction;
-				} else { //endif !foundLoginAction //start finding a login 
-					if (thisRecord.getData().equals("start") && type.equals(thisRecord.getType())) {
-						Date startTime = thisRecord.getTime();
-						int loginTime = (int) ((endTime.getTime() - startTime.getTime()) / 1000L);
-						System.out.println("login time is " + loginTime);
-						if(isGoodLogin && type.equals(Record.TEXT_TYPE)) {
-							textAnalyzedRecord.addAverageSuccessTime(loginTime);
-						} else if(isGoodLogin && type.equals(Record.IMAGE_TYPE)) {
-							imageAnalyzedRecord.addAverageSuccessTime(loginTime);
-						} else if(!isGoodLogin && type.equals(Record.TEXT_TYPE)) {
-							textAnalyzedRecord.addAverageFailTime(loginTime);
-						} else if(!isGoodLogin && type.equals(Record.IMAGE_TYPE)) {
-							imageAnalyzedRecord.addAverageFailTime(loginTime);
-						}
-					} else {
-						continue;
-					}
-					foundLoginAction = !foundLoginAction;
-				} //end elseif !foundLoginAction
+				String data = thisRecord.getData();
+				if (data.equals("start")) {
+					type = thisRecord.getType();
+					startTime = thisRecord.getTime();
+					findingNewStartLogin = false;
+				} else if ((!findingNewStartLogin) && (checkFail(data) || checkSuccess(data)) && type.equals(thisRecord.getType())){
+					Date endTime = thisRecord.getTime();
+					int loginTime = (int) ((endTime.getTime() - startTime.getTime()) / 1000L);
+					if (type.equals(Record.IMAGE_TYPE) && checkSuccess(data)) {
+						imageAnalyzedRecord.increaseSuccessCount();
+						imageAnalyzedRecord.addAverageSuccessTime(loginTime);
+					} else if (type.equals(Record.TEXT_TYPE) && checkSuccess(data)) {
+						textAnalyzedRecord.increaseSuccessCount();
+						textAnalyzedRecord.addAverageSuccessTime(loginTime);
+					} else if (type.equals(Record.IMAGE_TYPE) && checkFail(data)) {
+						imageAnalyzedRecord.increaseFailCount();
+						imageAnalyzedRecord.addAverageFailTime(loginTime);
+					} else if (type.equals(Record.TEXT_TYPE) && checkFail(data)) {
+						textAnalyzedRecord.increaseFailCount();
+						textAnalyzedRecord.addAverageFailTime(loginTime);
+					} 
+					findingNewStartLogin = true;
+				}
 				
 			} //end for loop
 			System.out.println("here is the two result: ");
@@ -116,6 +94,14 @@ public class Pile_Of_Records {
 		});
 		
 		return analyzedRecordByUserid;
+	}
+	
+	private boolean checkSuccess(String data) {
+		return data.equals("success") || data.equals("goodLogin");
+	}
+	
+	private boolean checkFail(String data) {
+		return data.equals("failure") || data.equals("badLogin");
 	}
 	
 	public ArrayList<Record> getRawRecords() {
