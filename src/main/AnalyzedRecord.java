@@ -10,8 +10,8 @@ public class AnalyzedRecord {
 	private String type;
 	private int successLoginCount;
 	private int failLoginCount;
-	private Date successLoginTime;
-	private Date failLoginTime;
+	private int successLoginTime;
+	private int failLoginTime;
 	
 	/**
 	 * @param userid
@@ -21,7 +21,7 @@ public class AnalyzedRecord {
 	 * @param successLoginTime
 	 * @param failLoginTime
 	 */
-	public AnalyzedRecord(String userid, String type, int successLoginCount, int failLoginCount, Date successLoginTime, Date failLoginTime) {
+	public AnalyzedRecord(String userid, String type, int successLoginCount, int failLoginCount, int successLoginTime, int failLoginTime) {
 		this.userid = userid;
 		this.type = type;
 		this.successLoginCount = successLoginCount;
@@ -29,6 +29,17 @@ public class AnalyzedRecord {
 		this.successLoginTime = successLoginTime;
 		this.failLoginTime = failLoginTime;
 	}
+	
+	
+
+	/**
+	 * empty constructor
+	 */
+	public AnalyzedRecord(String userid, String type) {
+		this(userid, type, 0, 0, 0, 0);
+	}
+
+
 
 	/* (non-Javadoc)
 	 * @see java.lang.Object#toString()
@@ -36,7 +47,12 @@ public class AnalyzedRecord {
 	@Override
 	public String toString() {
 		StringBuilder builder = new StringBuilder();
-		builder.append("AnalyzedRecord [userid=").append(userid).append(", type=").append(type).append(", successLoginCount=").append(successLoginCount).append(", failLoginCount=").append(failLoginCount).append(", successLoginTime=").append(successLoginTime).append(", failLoginTime=").append(failLoginTime).append("]");
+		builder.append(userid).append(",")
+		.append(type).append(",")
+		.append(successLoginCount).append(",")
+		.append(failLoginCount).append(",")
+		.append(successLoginTime).append(",")
+		.append(failLoginTime);
 		return builder.toString();
 	}
 
@@ -99,28 +115,47 @@ public class AnalyzedRecord {
 	/**
 	 * @return the successLoginTime
 	 */
-	public Date getSuccessLoginTime() {
+	public int getSuccessLoginTime() {
 		return successLoginTime;
 	}
 
 	/**
 	 * @param successLoginTime the successLoginTime to set
 	 */
-	public void setSuccessLoginTime(Date successLoginTime) {
+	public void setSuccessLoginTime(int successLoginTime) {
 		this.successLoginTime = successLoginTime;
 	}
 
 	/**
 	 * @return the failLoginTime
 	 */
-	public Date getFailLoginTime() {
+	public int getFailLoginTime() {
 		return failLoginTime;
 	}
 
 	/**
 	 * @param failLoginTime the failLoginTime to set
 	 */
-	public void setFailLoginTime(Date failLoginTime) {
+	public void setFailLoginTime(int failLoginTime) {
 		this.failLoginTime = failLoginTime;
+	}
+
+
+	public void increaseSuccessCount() {
+		successLoginCount++;
+	}
+	
+	public void increaseFailCount() {
+		failLoginCount++;
+	}
+
+	public void addAverageSuccessTime(int loginTime) {
+		successLoginTime = (int) Math.round(((successLoginTime * (successLoginCount - 1)) + loginTime) / (double) successLoginCount);
+		
+	}
+	
+	public void addAverageFailTime(int loginTime) {
+		failLoginTime = (int) Math.round(((failLoginTime * (failLoginCount - 1)) + loginTime) / (double) failLoginCount);
+		
 	}
 }

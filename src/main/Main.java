@@ -66,27 +66,18 @@ public class Main {
 		//System.out.println(rawRecords);
 		
 		//step 2: generate a map where key = userid, value = a list of record that correspond to this userid, and sorted by site primary and by time secondly
-		HashMap<String, ArrayList<Record>> recordsGroupedByUserid = piles.getRawRecords().stream().collect(
-				Collectors.groupingBy(Record::getUserid, HashMap<String, ArrayList<Record>>::new, 
-						Collectors.toCollection(ArrayList<Record>::new)));
+		piles.groupAndSort();
 		
-		for (List<Record> records: recordsGroupedByUserid.values()) {
-			records.sort((r1, r2) -> {
-				int d = r1.getSite().compareTo(r2.getSite());
-				if (d != 0) return d;
-				else {
-					return r1.getTime().compareTo(r2.getTime());
-				}
-			});
-			System.out.println(records);
-		}
-		//Pile_Of_Records piles = new Pile_Of_Records(recordsGroupedByUserid);
 			
 		//step 3 TODO: from each list in the map, manipulate the data in the list to produce a list of Analized data
+		 ArrayList<AnalyzedRecord> analyzedRecords = piles.analyze();
+		
 		
 		//step 4 TODO: rewrite the toString method of analyized data class, to produce .csv format string, then print the result list using PrintWriter 
 		try(PrintWriter writer = new PrintWriter(new FileWriter(outputFile), true)){
-			//writer.println(rawRecords);
+			for (AnalyzedRecord analyzedRecord : analyzedRecords) {
+				writer.println(analyzedRecord);
+			}
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
