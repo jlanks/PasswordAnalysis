@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 
 public class Pile_Of_Records {
 	
-	private ArrayList<Record> rawRecords, outputRecords;
+	private ArrayList<Record> rawRecords;
 	
 	private HashMap<String, ArrayList<Record>> recordsGroupedByUserid;
 	/**
@@ -20,7 +20,6 @@ public class Pile_Of_Records {
 	
 	public Pile_Of_Records(){
 		this.rawRecords = new ArrayList<>();
-		outputRecords = new ArrayList<>();
 		this.recordsGroupedByUserid = new HashMap<>();
 		analyzedRecordByUserid = new ArrayList<>();
 	}
@@ -50,7 +49,7 @@ public class Pile_Of_Records {
 //					if (records.get(i).getData().equals("start") || checkFail(records.get(i).getData()) || checkSuccess(records.get(i).getData()))
 //						System.out.println(records.get(i));
 //				}
-		}
+		}//end loop
 		
 	}
 	
@@ -97,15 +96,15 @@ public class Pile_Of_Records {
 						textAnalyzedRecord.addAverageFailTime(loginTime);
 					} 
 					findingNewStartLogin = true;
-				}
+				}//endif
 				
-			} //end for loop
+			} //end loop
 //			System.out.println("here is the two result: ");
 //			System.out.println(imageAnalyzedRecord);
 //			System.out.println(textAnalyzedRecord);
 			analyzedRecordByUserid.add(textAnalyzedRecord);
 			analyzedRecordByUserid.add(imageAnalyzedRecord);
-		});
+		});//end function
 		
 		return analyzedRecordByUserid;
 	}

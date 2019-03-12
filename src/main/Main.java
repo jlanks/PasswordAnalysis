@@ -63,17 +63,14 @@ public class Main {
 			e.printStackTrace();
 		}
 		
-		//System.out.println(rawRecords);
-		
 		//step 2: generate a map where key = userid, value = a list of record that correspond to this userid, and sorted by site primary and by time secondly
 		piles.groupAndSort();
 		
-			
-		//step 3 TODO: from each list in the map, manipulate the data in the list to produce a list of Analized data
+
+		//step 3: from each list in the map, manipulate the data in the list to produce a list of Analized data
 		 ArrayList<AnalyzedRecord> analyzedRecords = piles.analyze();
 		
-		
-		//step 4 TODO: rewrite the toString method of analyized data class, to produce .csv format string, then print the result list using PrintWriter 
+		//step 4: rewrite the toString method of analyized data class, to produce .csv format string, then print the result list using PrintWriter 
 		try(PrintWriter writer = new PrintWriter(new FileWriter(outputFile), true)){
 			for (AnalyzedRecord analyzedRecord : analyzedRecords) {
 				writer.println(analyzedRecord);
