@@ -1,3 +1,4 @@
+package main;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -14,14 +15,13 @@ public class Main {
 	File image21, text21;
 	File outputFile;
 	
-	ArrayList<Record> rawRecords, outputRecords;
+	Pile_Of_Records piles;
 	
 	public Main() {
 		image21 = new File(new File("./files"), "imagept21.csv");
 		text21 = new File(new File("./files"), "text21.csv");
 		outputFile = new File(new File("./files"), "merged.csv");
-		rawRecords = new ArrayList<>();
-		outputRecords = new ArrayList<>();
+		piles = new Pile_Of_Records();
 		try {
 			outputFile.createNewFile();
 		} catch (IOException e) {
@@ -37,7 +37,7 @@ public class Main {
 			
 			for(String line = imageReader.readLine(); line != null && !line.equals("");line = imageReader.readLine()) {
 				String[] imageField = line.split(",");
-				rawRecords.add(new Record(Record.IMAGE_TYPE, 
+				piles.getRawRecords().add(new Record(Record.IMAGE_TYPE, 
 						imageField[0], 
 						imageField[1], 
 						imageField[2], 
@@ -49,7 +49,7 @@ public class Main {
 			
 			for(String line = textReader.readLine(); line != null && !line.equals("");line = textReader.readLine()) {
 				String[] textField = line.split(",");
-				rawRecords.add(new Record(Record.TEXT_TYPE, 
+				piles.getRawRecords().add(new Record(Record.TEXT_TYPE, 
 						textField[0], 
 						textField[1], 
 						textField[2], 
@@ -66,7 +66,7 @@ public class Main {
 		//System.out.println(rawRecords);
 		
 		//step 2: generate a map where key = userid, value = a list of record that correspond to this userid, and sorted by site primary and by time secondly
-		HashMap<String, ArrayList<Record>> recordsGroupedByUserid = rawRecords.stream().collect(
+		HashMap<String, ArrayList<Record>> recordsGroupedByUserid = piles.getRawRecords().stream().collect(
 				Collectors.groupingBy(Record::getUserid, HashMap<String, ArrayList<Record>>::new, 
 						Collectors.toCollection(ArrayList<Record>::new)));
 		
@@ -80,6 +80,8 @@ public class Main {
 			});
 			System.out.println(records);
 		}
+		//Pile_Of_Records piles = new Pile_Of_Records(recordsGroupedByUserid);
+			
 		//step 3 TODO: from each list in the map, manipulate the data in the list to produce a list of Analized data
 		
 		//step 4 TODO: rewrite the toString method of analyized data class, to produce .csv format string, then print the result list using PrintWriter 
