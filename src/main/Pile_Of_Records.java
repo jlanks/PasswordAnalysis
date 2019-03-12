@@ -44,7 +44,14 @@ public class Pile_Of_Records {
 				}
 			});
 			//System.out.println(records);
+//			if (records.get(0).getUserid().equals("ipt119") && 
+//					records.get(0).getType().equals(Record.IMAGE_TYPE))
+//				for (int i = 0; i < records.size(); i++) {
+//					if (records.get(i).getData().equals("start") || checkFail(records.get(i).getData()) || checkSuccess(records.get(i).getData()))
+//						System.out.println(records.get(i));
+//				}
 		}
+		
 	}
 	
 	public ArrayList<AnalyzedRecord> analyze() {
@@ -60,15 +67,22 @@ public class Pile_Of_Records {
 			String type = "";						//the type of record, either image21 or text21
 			for (int i = 1; i < records.size(); i++) {//for each record of this user, in order sorted before
 				Record thisRecord = records.get(i);
-				System.out.println(thisRecord);
+				//System.out.println(thisRecord);
 				String data = thisRecord.getData();
 				if (data.equals("start")) {
 					type = thisRecord.getType();
 					startTime = thisRecord.getTime();
+//					if (thisRecord.getUserid().equals("ipt119")) {
+//						System.out.println(thisRecord);
+//					}
 					findingNewStartLogin = false;
 				} else if ((!findingNewStartLogin) && (checkFail(data) || checkSuccess(data)) && type.equals(thisRecord.getType())){
 					Date endTime = thisRecord.getTime();
 					int loginTime = (int) ((endTime.getTime() - startTime.getTime()) / 1000L);
+//					if (thisRecord.getUserid().equals("ipt119")) {
+//						System.out.println(thisRecord);
+//						System.out.println("login time " + loginTime);
+//					}
 					if (type.equals(Record.IMAGE_TYPE) && checkSuccess(data)) {
 						imageAnalyzedRecord.increaseSuccessCount();
 						imageAnalyzedRecord.addAverageSuccessTime(loginTime);
@@ -86,9 +100,9 @@ public class Pile_Of_Records {
 				}
 				
 			} //end for loop
-			System.out.println("here is the two result: ");
-			System.out.println(imageAnalyzedRecord);
-			System.out.println(textAnalyzedRecord);
+//			System.out.println("here is the two result: ");
+//			System.out.println(imageAnalyzedRecord);
+//			System.out.println(textAnalyzedRecord);
 			analyzedRecordByUserid.add(textAnalyzedRecord);
 			analyzedRecordByUserid.add(imageAnalyzedRecord);
 		});

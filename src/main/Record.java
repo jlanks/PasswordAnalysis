@@ -36,7 +36,7 @@ public class Record {
 	public Record(String type, String time, String userid, String site, String scheme, String mode, String event, String data) {
 		this.type = type;
 		try {
-			this.time = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss").parse(time);
+			this.time = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").parse(time);
 		} catch (ParseException e) {
 			Logger.getGlobal().warning("can't prase time " + time);
 		}
