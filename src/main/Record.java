@@ -33,6 +33,10 @@ public class Record {
 	 * @param event
 	 * @param data
 	 */
+	
+	public Record() {
+		
+	}
 	public Record(String type, String time, String userid, String site, String scheme, String mode, String event, String data) {
 		this.type = type;
 		try {

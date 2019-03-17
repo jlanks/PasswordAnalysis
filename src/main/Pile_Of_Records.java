@@ -108,7 +108,13 @@ public class Pile_Of_Records {
 		
 		return analyzedRecordByUserid;
 	}
-	
+	public void add(Record rec) {
+		
+		this.rawRecords.add(rec); 
+	}
+	public int size() {
+		return this.rawRecords.size(); 
+	}
 	private boolean checkSuccess(String data) {
 		return data.equals("success") || data.equals("goodLogin");
 	}
