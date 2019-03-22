@@ -51,8 +51,13 @@ public class AnalyzedRecord {
 		.append(successLoginCount).append(",")
 		.append(failLoginCount).append(",")
 		.append(successLoginTime).append(",")
-		.append(failLoginTime);
+		.append(failLoginTime).append(",")
+		.append(successLoginCount + failLoginCount);
 		return builder.toString();
+	}
+	
+	public boolean isEmpty() {
+		return successLoginCount == 0 && failLoginCount == 0 && successLoginTime == 0 && failLoginTime == 0;
 	}
 
 	/**

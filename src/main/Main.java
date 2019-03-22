@@ -72,8 +72,10 @@ public class Main {
 		
 		//step 4: rewrite the toString method of analyized data class, to produce .csv format string, then print the result list using PrintWriter 
 		try(PrintWriter writer = new PrintWriter(new FileWriter(outputFile), true)){
+			writer.println("User,Type,success,fail,tsuccess,tfail,total");
 			for (AnalyzedRecord analyzedRecord : analyzedRecords) {
-				writer.println(analyzedRecord);
+				if (!analyzedRecord.isEmpty())
+					writer.println(analyzedRecord);
 			}
 		} catch (IOException e) {
 			e.printStackTrace();
