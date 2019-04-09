@@ -1,0 +1,1028 @@
+2019-04-07 18:01,Julian,BankPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-07 18:02,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-07 18:02,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:02,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 2 try ,,,
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,retry,clicked retry ,,,
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:03,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,retry,clicked retry ,,,
+2019-04-07 18:04,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:04,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:04,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:04,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:04,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:04,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:04,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:04,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:04,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:04,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:04,Julian,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:04,Julian,BankPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 3 try ,,,
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:04,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:05,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 2 try ,,,
+2019-04-07 18:05,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:05,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:05,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:05,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:05,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:05,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:05,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:05,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:05,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:05,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:05,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:05,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:05,Julian,EmailPassword,testpasstiles,StrokePasswordScheme,login,success,successfully login at 3 try ,,,
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:05,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 2 try ,,,
+2019-04-07 18:06,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:06,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=0] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:06,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:06,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:06,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:06,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:06,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:06,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:06,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:06,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:06,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:06,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:06,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 3 try ,,,
+2019-04-07 18:06,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:06,Julian,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-07 12:59,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-07 12:59,Hank,ShoppingPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,retry,clicked retry ,,,
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-07 12:59,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 13:00,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 13:00,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:00,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:00,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:00,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 13:00,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:00,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:00,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:00,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 13:00,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:00,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:00,Hank,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:00,Hank,BankPassword,testpasstiles,StrokePasswordScheme,login,success,successfully login at 2 try ,,,
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,retry,clicked retry ,,,
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-07 13:00,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,retry,clicked retry ,,,
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 2 try ,,,
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:01,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,retry,clicked retry ,,,
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,retry,clicked retry ,,,
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:02,Hank,EmailPassword,testpasstiles,StrokePasswordScheme,login,success,successfully login at 3 try ,,,
+2019-04-07 13:02,Hank,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 13:02,Hank,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 13:02,Hank,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:02,Hank,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:02,Hank,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 13:02,Hank,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 13:02,Hank,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:02,Hank,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:02,Hank,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 13:02,Hank,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 13:02,Hank,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=0] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:02,Hank,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:02,Hank,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 13:02,Hank,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,success,successfully login at 1 try ,,,
+2019-04-07 18:12,Everton,BankPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-07 18:15,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:15,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-07 18:15,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-07 18:15,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:16,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:16,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:16,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:16,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:16,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:16,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:16,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:16,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:16,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:16,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:16,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 2 try ,,,
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:17,Everton,BankPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 3 try ,,,
+2019-04-07 18:17,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:17,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:17,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:17,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:17,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:17,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:17,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:17,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:17,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 2 try ,,,
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:18,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:19,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:19,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:19,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:19,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:19,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:19,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:19,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:19,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:19,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:19,Everton,EmailPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 3 try ,,,
+2019-04-07 18:19,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:19,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:19,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:19,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:19,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:19,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:19,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:19,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:19,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:19,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:19,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:19,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:19,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:19,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-07 18:19,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:19,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:19,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 2 try ,,,
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:20,Everton,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 3 try ,,,
+2019-04-07 18:27,cole,BankPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-07 18:33,cole,EmailPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-07 18:33,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-07 18:33,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:34,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:34,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:34,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:34,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:34,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:34,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:34,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:34,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:34,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:34,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:34,cole,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:34,cole,BankPassword,testpasstiles,StrokePasswordScheme,login,success,successfully login at 2 try ,,,
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 2 try ,,,
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:34,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:35,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:35,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:35,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:35,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:35,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:35,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:35,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:35,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:35,cole,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:35,cole,EmailPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 3 try ,,,
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,retry,clicked retry ,,,
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 2 try ,,,
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=0] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=0] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:35,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:36,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:36,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:36,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:36,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:36,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:36,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:36,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:36,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:36,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:36,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:36,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:36,cole,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 3 try ,,,
+2019-04-07 18:43,david,BankPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-07 18:45,david,EmailPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-07 18:45,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:45,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:46,david,BankPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 2 try ,,,
+2019-04-07 18:46,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:46,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:46,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:46,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:46,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:46,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:46,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:46,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:46,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:46,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:46,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:46,david,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:46,david,BankPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 3 try ,,,
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 2 try ,,,
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:46,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:47,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:47,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:47,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:47,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:47,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:47,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:47,david,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:47,david,EmailPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 3 try ,,,
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,retry,clicked retry ,,,
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 2 try ,,,
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-07 18:47,david,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 3 try ,,,
+2019-04-09 11:47,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-09 11:48,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-09 11:48,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,retry,clicked retry ,,,
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 2 try ,,,
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:48,farhoud,BankPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 3 try ,,,
+2019-04-09 11:48,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 11:48,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 11:48,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-09 11:48,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:48,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:48,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:48,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 11:48,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:48,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:48,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:48,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-09 11:48,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:48,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:48,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:48,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-09 11:48,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 2 try ,,,
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:49,farhoud,EmailPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 3 try ,,,
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 2 try ,,,
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,retry,clicked retry ,,,
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,retry,clicked retry ,,,
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:49,farhoud,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 3 try ,,,
+2019-04-09 11:49,ben,BankPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-09 11:50,ben,EmailPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-09 11:50,ben,ShoppingPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 2 try ,,,
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:50,ben,BankPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 3 try ,,,
+2019-04-09 11:50,ben,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 11:51,lewis,BankPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-09 11:51,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-09 11:51,lewis,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 11:51,lewis,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 11:51,lewis,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:51,lewis,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:51,lewis,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:51,lewis,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-09 11:51,lewis,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:51,lewis,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:51,lewis,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:51,lewis,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-09 11:51,lewis,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=0] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:51,lewis,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=0] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:51,lewis,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:51,lewis,BankPassword,testpasstiles,StrokePasswordScheme,login,success,successfully login at 1 try ,,,
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:51,lewis,EmailPassword,testpasstiles,StrokePasswordScheme,login,success,successfully login at 2 try ,,,
+2019-04-09 11:51,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 11:51,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:51,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-09 11:51,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:51,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:51,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:51,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,retry,clicked retry ,,,
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 11:52,lewis,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,success,successfully login at 1 try ,,,
+2019-04-09 12:17,Yiqi,BankPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-09 12:18,Yiqi,EmailPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-09 12:18,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-09 12:19,Yiqi,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 12:19,Yiqi,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 12:19,Yiqi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 12:19,Yiqi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 12:19,Yiqi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 12:19,Yiqi,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-09 12:19,Yiqi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 12:19,Yiqi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 12:19,Yiqi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 12:19,Yiqi,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-09 12:19,Yiqi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 12:19,Yiqi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 12:19,Yiqi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 12:19,Yiqi,BankPassword,testpasstiles,StrokePasswordScheme,login,success,successfully login at 1 try ,,,
+2019-04-09 12:19,Yiqi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 12:19,Yiqi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-09 12:19,Yiqi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=0] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 12:19,Yiqi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=0] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 12:19,Yiqi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 12:19,Yiqi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 12:19,Yiqi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 12:19,Yiqi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 12:19,Yiqi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 12:19,Yiqi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-09 12:19,Yiqi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 12:19,Yiqi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 12:19,Yiqi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 12:19,Yiqi,EmailPassword,testpasstiles,StrokePasswordScheme,login,success,successfully login at 1 try ,,,
+2019-04-09 12:19,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 12:19,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-09 12:19,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 12:19,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 12:19,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,failure,failed to login at 1 try ,,,
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=0] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-09 12:20,Yiqi,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,success,successfully login at 2 try ,,,
+2019-04-06 20:19,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-06 20:20,CXwudi,EmailPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-06 20:20,CXwudi,ShoppingPassword,testpasstiles,StrokePasswordScheme,generate,check,password created ,,,
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,retry,clicked retry ,,,
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=1] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=4] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-06 20:20,CXwudi,BankPassword,testpasstiles,StrokePasswordScheme,login,success,successfully login at 1 try ,,,
+2019-04-06 20:20,CXwudi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-06 20:20,CXwudi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-06 20:20,CXwudi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-06 20:20,CXwudi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-06 20:20,CXwudi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-06 20:20,CXwudi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-06 20:20,CXwudi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-06 20:20,CXwudi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-06 20:20,CXwudi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=3,y=3] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-06 20:20,CXwudi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-06 20:20,CXwudi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-06 20:20,CXwudi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-06 20:20,CXwudi,EmailPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=4,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-06 20:20,CXwudi,EmailPassword,testpasstiles,StrokePasswordScheme,login,success,successfully login at 1 try ,,,
+2019-04-06 20:20,CXwudi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,start,start login test ,,,
+2019-04-06 20:20,CXwudi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Purple ,,,
+2019-04-06 20:20,CXwudi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=3] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-06 20:20,CXwudi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-06 20:20,CXwudi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=2,y=4] with color java.awt.Color[r=255,g=0,b=255] 
+2019-04-06 20:20,CXwudi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Yellow ,,,
+2019-04-06 20:20,CXwudi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=2] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-06 20:20,CXwudi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=3] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-06 20:20,CXwudi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=0,y=4] with color java.awt.Color[r=255,g=255,b=0] 
+2019-04-06 20:20,CXwudi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,color,select color Green ,,,
+2019-04-06 20:20,CXwudi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=2] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-06 20:20,CXwudi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=1] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-06 20:20,CXwudi,ShoppingPassword,testpasstiles,StrokePasswordScheme,enter,order input,clicked java.awt.Point[x=1,y=0] with color java.awt.Color[r=0,g=255,b=0] 
+2019-04-06 20:20,CXwudi,ShoppingPassword,testpasstiles,StrokePasswordScheme,login,success,successfully login at 1 try ,,,
