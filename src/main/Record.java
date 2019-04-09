@@ -10,7 +10,7 @@ import java.util.logging.Logger;
  *
  */
 public class Record {
-	public static final String IMAGE_TYPE = "Image21", TEXT_TYPE = "Text21";
+	public static final String IMAGE_TYPE = "StrokePasswordScheme", TEXT_TYPE = "Text21";
 	
 	private String type;		//either image type or text type password record
 	

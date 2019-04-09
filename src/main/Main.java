@@ -18,7 +18,7 @@ public class Main {
 	Pile_Of_Records piles;
 	
 	public Main() {
-		image21 = new File(new File("./files"), "imagept21.csv");
+		image21 = new File(new File("./files"), "finaloutput.csv");
 		text21 = new File(new File("./files"), "text21.csv");
 		outputFile = new File(new File("./files"), "merged.csv");
 		piles = new Pile_Of_Records();
@@ -72,7 +72,7 @@ public class Main {
 		
 		//step 4: rewrite the toString method of analyized data class, to produce .csv format string, then print the result list using PrintWriter 
 		try(PrintWriter writer = new PrintWriter(new FileWriter(outputFile), true)){
-			writer.println("User,Type,success,fail,tsuccess,tfail,total");
+			writer.println("User,Type,success,fail,tsuccess,tfail,total,success_rate,fail_rate");
 			for (AnalyzedRecord analyzedRecord : analyzedRecords) {
 				if (!analyzedRecord.isEmpty())
 					writer.println(analyzedRecord);

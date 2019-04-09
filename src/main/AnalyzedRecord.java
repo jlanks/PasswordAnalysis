@@ -52,7 +52,9 @@ public class AnalyzedRecord {
 		.append(failLoginCount).append(",")
 		.append(successLoginTime).append(",")
 		.append(failLoginTime).append(",")
-		.append(successLoginCount + failLoginCount);
+		.append(successLoginCount + failLoginCount).append(",")
+		.append(successLoginCount / (double)(successLoginCount + failLoginCount)).append(",")
+		.append(failLoginCount / (double)(successLoginCount + failLoginCount));
 		return builder.toString();
 	}
 	
